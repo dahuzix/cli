@@ -39,7 +39,7 @@
     "inquirer": "^3.3.0",
     "ora": "^1.4.0",
     "shelljs": "^0.8.3",
-    "urllib": "^2.34.1",
+    "urllib": "^2.38.1",
     "yargs": "^14.2.0"
   },
   "gitHead": "7996ff4d2dfaf35b8415f70024ea427aad03b259"
